@@ -22,7 +22,7 @@ export default function CoursesPage() {
 
   return (
     <div>
-      <h1 className="text-4xl font-extrabold text-center">Courses Page</h1>
+      <h1 className="text-4xl font-extrabold text-center">[Courses Page]</h1>
       <Courses courses={courses}></Courses>
     </div>
   )
